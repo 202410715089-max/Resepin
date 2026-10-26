@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Ilustrasi aneka jajanan Nusantara">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ead7b7"/><stop offset="1" stop-color="#bb8d57"/></linearGradient>
+    <radialGradient id="plate"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#e2d3b8"/></radialGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#38200f" flood-opacity=".3"/></filter>
+  </defs>
+  <rect width="480" height="320" fill="url(#bg)"/>
+  <ellipse cx="240" cy="184" rx="174" ry="112" fill="url(#plate)" stroke="#fff7e7" stroke-width="5" filter="url(#shadow)"/>
+  <ellipse cx="240" cy="179" rx="140" ry="79" fill="#f5ead5" stroke="#d9c7a7" stroke-width="3"/>
+  <g>
+    <circle cx="174" cy="166" r="36" fill="#4c9454"/><circle cx="240" cy="152" r="36" fill="#68aa62"/><circle cx="306" cy="166" r="36" fill="#43874d"/>
+    <path d="M156 150q16-15 28-6m39-10q15-13 28-5m38 24q14-14 27-5" fill="none" stroke="#a9dc91" stroke-width="7" stroke-linecap="round"/>
+    <path d="M169 226l49-28 46 25-48 29z" fill="#f0d28c"/><path d="M169 217l49-28 46 25-48 29z" fill="#a8544c"/><path d="M169 207l49-28 46 25-48 29z" fill="#efd293"/>
+    <ellipse cx="326" cy="218" rx="29" ry="23" fill="#d89a4a"/><ellipse cx="326" cy="218" rx="13" ry="10" fill="#9f5735"/>
+  </g>
+  <rect y="270" width="480" height="50" fill="#2b2118" opacity=".85"/>
+  <text x="24" y="291" fill="#ffd89b" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">JAJANAN NUSANTARA</text>
+  <text x="24" y="311" fill="#fff8e9" font-family="Arial,sans-serif" font-size="15" font-weight="700">Resep Kue Tradisional</text>
+</svg>

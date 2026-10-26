@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Aneka kue tradisional Nusantara">
+  <defs>
+    <linearGradient id="table" x2="0" y2="1"><stop stop-color="#382a1d"/><stop offset="1" stop-color="#120f0c"/></linearGradient>
+    <radialGradient id="plate"><stop stop-color="#fff9eb"/><stop offset="1" stop-color="#d8c3a5"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-opacity=".5"/></filter>
+  </defs>
+  <rect width="1200" height="600" fill="url(#table)"/>
+  <path d="M0 465Q280 380 590 470T1200 430V600H0Z" fill="#806043" opacity=".32"/>
+  <g fill="#e8c89b" opacity=".13"><circle cx="1010" cy="95" r="4"/><circle cx="1060" cy="140" r="6"/><circle cx="915" cy="175" r="3"/><circle cx="1125" cy="250" r="5"/></g>
+  <g filter="url(#shadow)">
+    <ellipse cx="855" cy="386" rx="276" ry="154" fill="url(#plate)"/>
+    <ellipse cx="855" cy="374" rx="224" ry="110" fill="#f0e4d0" stroke="#bda482" stroke-width="5"/>
+    <g>
+      <path d="M682 373q10-90 76-90t76 90z" fill="#cf8a43"/><path d="M690 359q66-38 136 0" fill="none" stroke="#ffe0a0" stroke-width="13"/>
+      <path d="M820 358l63-65 63 65-63 66z" fill="#8ca35e"/><path d="M820 358l63 21v45l-63-66z" fill="#668149"/>
+      <path d="M915 374q0-55 52-55t52 55-52 55-52-55" fill="#4f9254"/><g fill="#f5e6c7"><circle cx="950" cy="358" r="4"/><circle cx="978" cy="381" r="4"/><circle cx="948" cy="393" r="4"/></g>
+      <path d="M755 432l62-35 65 35-62 36z" fill="#ac564c"/><path d="M755 420l62-35 65 35-62 36z" fill="#f1d49f"/><path d="M755 408l62-35 65 35-62 36z" fill="#ad574b"/>
+      <circle cx="1012" cy="429" r="34" fill="#e8bd6d"/><circle cx="1012" cy="429" r="16" fill="#d48b3f"/>
+    </g>
+  </g>
+  <g fill="#557348"><path d="M578 405q50-66 91-31-29 54-91 31z"/><path d="M1068 315q-2-58 43-69 14 46-43 69z"/></g>
+</svg>
